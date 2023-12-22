@@ -99,7 +99,7 @@ def clear_lines(board):
     return len(lines_to_clear)
 
 
-# Основной цикл игры
+
 def main():
     clock = pygame.time.Clock()
     game_over = False
